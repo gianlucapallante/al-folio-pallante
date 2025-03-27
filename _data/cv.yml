@@ -2,20 +2,20 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Gianluca Pallante
     - name: Date of Birth
-      value: 14th March 1879
+      value: 27th June 1989
     - name: Languages
-      value: English, German
+      value: Italian, English, Spanish
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
+    - title: PhD in Economics
+      institution: Scuola Superiore Sant'Anna, Pisa, Italy
       year: 1905
       description:
-        - Description 1.
+        - Thesis Title "Three Essays on Macroeconomic Policy"
         - Description 2.
         - title: Description 3.
           contents:
