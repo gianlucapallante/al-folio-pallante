@@ -24,4 +24,4 @@ I am a macroeconomist, interested in the analysis of technical change and the tr
 
 I use agent-based modeling techniques to analyze the complex interplay technological progress, economic change and financial stability. I also explore methodological aspects for improving the validity and the reliability of agent-based models to provide realistic representation of economic dynamics and robust integrated scenarios.
 
-For my latest, visit my <i class="fas fa-graduation-cap"></i> [Google Scholar](https://scholar.google.it/citations?user=Fh-b57UAAAAJ&hl=it) profile, or my <i class="fa-brands fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/gianluca-pallante-399a9788/) page.
+For my latest, visit my <i class="fa-brands fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/gianluca-pallante-399a9788/) page.
