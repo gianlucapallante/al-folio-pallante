@@ -64,21 +64,14 @@
       "date": "2025-03-07",
       "awarder": "Italian Ministry of University and Research",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "National Scientific qualification as associate professor in the Italian higher education system for the disciplinary field of 13/A1 - Economics."
+      "summary": "National Scientific qualification as associate professor in the Italian higher education system for the disciplinary field of 13/A1 - Economics.'"
     },
     {
-      "title": "Visiting Scholar",
-      "date": "2020",
-      "awarder": "The New School for Social Research (NSSR), New York, USA",
-      "url": "https://www.newschool.edu/nssr/",
-      "summary": "Sponsorship: prof. Willi Semmler"
-    },
-    {
-      "title": "Visiting Scholar",
-      "date": "2019",
-      "awarder": "OFCE-SciencesPo (Innovation and Competition department), SKEMA Business School, Sophia-Antipolis, France",
-      "url": "",
-      "summary": "Sponsorship: prof. Mauro Napoletano"
+      "title": "National Scientific Qualification as Associate Professor in Economics.",
+      "date": "2025-03-07",
+      "awarder": "Italian Ministry of University and Research",
+      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "summary": "National Scientific qualification as associate professor in the Italian higher education system for the disciplinary field of 13/A1 - Economics.'"
     }
   ],
   "certificates": [
@@ -127,34 +120,26 @@
   ],
   "publications": [
     {
-      "name": "Robust-less-fragile: Tackling Systemic Risk and Financial Contagion in a Macro Agent-Based Model.",
-      "publisher": "Journal of Financial Stability",
-      "releaseDate": "2025",
-      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1572308924001372",
-      "summary": "with Mattia Guerini, Mauro Napoletano and Andrea Roventini"
+      "name": "Zur Elektrody/namik bewegter Körper",
+      "publisher": "Annalen der Physik",
+      "releaseDate": "1905-06-30",
+      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
+      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
     },
     {
-      "name": "Calibration and Validation of Macroeconomic Simulation Models by Statistical Causal Search",
-      "publisher": "Journal of Economic Behavior and Organization",
-      "releaseDate": "2024",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0167268124004001",
-      "summary": "with Mario Martinoli and Alessio Moneta"
+      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
+      "publisher": "Annalen der Physik",
+      "releaseDate": "1905-03-18",
+      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
+      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
     },
     {
-      "name": "Does public R&D funding stimulate private R&D? Evidence from military R&D for US states",
-      "publisher": "Research Policy",
-      "releaseDate": "2023",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0048733323000914",
-      "summary": "with Emanuele Russo and Andrea Roventini"
-    },
-    {
-      "name": "Identification of Structural VAR Models via Independent Component Analysis: A Performance Evaluation Study",
-      "publisher": "Journal of Economic Dynamics and Control",
-      "releaseDate": "2022",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0165188922002342",
-      "summary": "with Alessio Moneta"
+      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
+      "publisher": "Annalen der Physik",
+      "releaseDate": "1916-03-20",
+      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
+      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
-
   ],
   "skills": [
     {
