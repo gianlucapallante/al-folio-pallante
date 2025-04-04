@@ -90,13 +90,13 @@ layout: default
           <div class="card mt-3 p-3">
             <h3 class="card-title font-weight-medium">
               {% case data[0] %}
-                {% when "awards" %}
+                {% when 'awards' %}
                   Awards and Fellowships
-                {% when "certificates" %}
+                {% when 'certificates' %}
                   Conferences
                 {% else %}
                   {{ data[0] | capitalize }}
-                {% endcase %}
+              {% endcase %}
             </h3>
             <div>
               {% case data[0] %}

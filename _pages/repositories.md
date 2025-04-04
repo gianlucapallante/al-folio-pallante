@@ -19,6 +19,7 @@ nav_order: 4
 </div>
 
 ---
+
 {%- endcomment -%}
 
 {% if site.repo_trophies.enabled %}
